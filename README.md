@@ -20,3 +20,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🚀 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Animal Breed ID** | Deep Learning model using MobileNetV2 to identify animal breeds via a Gradio interface. | `Python`, `TensorFlow`, `Gradio` | [View Repo](link-to-repo) |
+| **Smart Scholarship Portal** | A Django-based portal with AI-powered verification to digitize scholarship workflows. | `Django`, `Python`, `SQLite` | [View Repo](link-to-repo) |
