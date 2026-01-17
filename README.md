@@ -2,9 +2,18 @@
 ### AI/ML Developer | Python Enthusiast | Deep Learning Researcher
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Trupti1903&show_icons=true&theme=radical" alt="Trupti's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trupti1903&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+## ⚡ About Me
+* 🔭 I’m currently working on **Deep Learning** and **Computer Vision** projects.
+* 🌱 Developed an **Animal Breed Identification** system using **TensorFlow** and **MobileNetV2**.
+* 🏆 Hackathon winner for a **Django-based Scholarship Portal** that uses AI for document verification.
+* 🐍 Passionate about building scalable applications with **Python** and **Gradio**.
+* 📫 How to reach me: [Your Email or LinkedIn Link]
 
 ---
 
@@ -20,9 +29,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
 ## 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Animal Breed ID** | Deep Learning model using MobileNetV2 to identify animal breeds via a Gradio interface. | `Python`, `TensorFlow`, `Gradio` | [View Repo](link-to-repo) |
-| **Smart Scholarship Portal** | A Django-based portal with AI-powered verification to digitize scholarship workflows. | `Django`, `Python`, `SQLite` | [View Repo](link-to-repo) |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Animal Breed ID** | Deep Learning model using MobileNetV2 to identify breeds via Gradio. | `TensorFlow`, `Python` |
+| **Smart Scholarship** | AI-powered portal created during a hackathon to digitize verification. | `Django`, `Python` |
