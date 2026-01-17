@@ -36,5 +36,5 @@ Directly from [Trupti1903's Repositories](https://github.com/Trupti1903?tab=repo
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** [Insert LinkedIn Profile Link]
-- **Email:** [Insert Professional Email]
+- **LinkedIn:** https://www.linkedin.com/in/trupti-malamdi-87449a283/
+- **Email:** tmalamdi241@ku.ac.in
