@@ -20,7 +20,7 @@ Directly from [Trupti1903's Repositories](https://github.com/Trupti1903?tab=repo
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[rt--camp(https://github.com/Trupti1903/rt--camp)]** | PHP-based development project. | `PHP` |
+| **[rt--camp](https://github.com/Trupti1903/rt--camp)** | PHP-based development project. | `PHP` |
 | **[react](https://github.com/Trupti1903/react)** | Exploring core library architectures for web and native UIs. | `JavaScript`, `React` |
 | **[.Net_B](https://github.com/Trupti1903/.Net_B)** | Backend development project focusing on ASP.NET frameworks. | `ASP.NET`, `C#` |
 | **[ML_practicals](https://github.com/Trupti1903/ML_practicals)** | A collection of Machine Learning algorithms and practicals. | `Jupyter`, `Python` |
