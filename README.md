@@ -1,39 +1,41 @@
 # Hi, I'm Trupti Malamdi 👋
-### AI/ML Developer | Python Enthusiast | Deep Learning Researcher
+### Full-Stack Developer | Mobile App Developer | ML Enthusiast
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Trupti1903&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Trupti1903&show_icons=true&theme=radical" alt="Trupti's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trupti1903&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 Projects
-Directly from my [GitHub Repositories](https://github.com/Trupti1903?tab=repositories):
+## 🚀 Public Projects
+Directly from [Trupti1903's Repositories](https://github.com/Trupti1903?tab=repositories):
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Smart-Scholarship-Portal](https://github.com/Trupti1903/Smart-Scholarship-Portal)** | A Django-based portal designed to digitize and automate scholarship verification. | `Django`, `Python`, `SQLite` |
-| **[Animal-Breed-Identification-using-MobileNetV2](https://github.com/Trupti1903/Animal-Breed-Identification-using-MobileNetV2)** | A Deep Learning image classifier using MobileNetV2 for animal breed detection. | `TensorFlow`, `Keras`, `Python` |
-| **[Python-Projects](https://github.com/Trupti1903/Python-Projects)** | A collection of Python scripts focusing on web scraping and automation tasks. | `Python`, `BeautifulSoup` |
+| **[.Net_B](https://github.com/Trupti1903/.Net_B)** | Backend development project focusing on ASP.NET frameworks. | `ASP.NET`, `C#` |
+| **[ML_practicals](https://github.com/Trupti1903/ML_practicals)** | A collection of Machine Learning algorithms and practical implementations. | `Jupyter Notebook`, `Python` |
+| **[MyBank](https://github.com/Trupti1903/MyBank)** | A financial tracking application developed for mobile platforms. | `Dart`, `Flutter` |
+| **[bank_loan_app](https://github.com/Trupti1903/bank_loan_app)** | Mobile application focused on loan management and user processing. | `Dart`, `Flutter` |
+| **[react](https://github.com/Trupti1903/react)** | Exploring the library for web and native user interfaces. | `JavaScript`, `React` |
 
 ---
 
 ## 🛠 Tech Stack
 
-**AI & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-orange?style=for-the-badge&logo=gradio&logoColor=white)
+**Programming & Frameworks**
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-**Backend & Tools**
+**Web & Data**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** [Insert LinkedIn Profile Link]
-- **Email:** [Insert Professional Email]
+- **LinkedIn:** [Insert Trupti's LinkedIn Link]
+- **Email:** [Insert Trupti's Professional Email]
