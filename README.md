@@ -2,23 +2,22 @@
 ### Full-Stack Developer | Mobile App Developer | ML Enthusiast
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Trupti1903&show_icons=true&theme=radical" alt="Trupti's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trupti1903&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Trupti1903&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🚀 Public & Featured Projects
+## 🚀 Projects
 Directly from [Trupti1903's Repositories](https://github.com/Trupti1903?tab=repositories):
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[rt--camp](https://github.com/Trupti1903/rt--camp)** | PHP-based development project (Private Repository). | `PHP` |
-| **[react](https://github.com/Trupti1903/react)** | Forked from Facebook/React; exploring core library architectures for web/native UIs. | `JavaScript`, `React` |
-| **[.Net_B](https://github.com/Trupti1903/.Net_B)** | Backend development project focusing on ASP.NET frameworks. | `ASP.NET`, `C#` |
-| **[ML_practicals](https://github.com/Trupti1903/ML_practicals)** | A collection of Machine Learning algorithms and practical implementations. | `Jupyter Notebook`, `Python` |
-| **[MyBank](https://github.com/Trupti1903/MyBank)** | A financial tracking application developed for mobile platforms. | `Dart`, `Flutter` |
-| **[bank_loan_app](https://github.com/Trupti1903/bank_loan_app)** | Mobile application focused on loan management and user processing. | `Dart`, `Flutter` |
+| **rt--camp** | Internal PHP development project. | `PHP` |
+| **[react](https://github.com/Trupti1903/react)** | Exploring core library architectures for web/native user interfaces. | `JavaScript`, `React` |
+| **[.Net_B](https://github.com/Trupti1903/.Net_B)** | Backend development focusing on ASP.NET frameworks. | `ASP.NET`, `C#` |
+| **[ML_practicals](https://github.com/Trupti1903/ML_practicals)** | Collection of Machine Learning algorithms and practicals. | `Jupyter Notebook`, `Python` |
+| **[MyBank](https://github.com/Trupti1903/MyBank)** | Financial tracking and management mobile application. | `Dart`, `Flutter` |
+| **[bank_loan_app](https://github.com/Trupti1903/bank_loan_app)** | Mobile application for loan processing and management. | `Dart`, `Flutter` |
 
 ---
 
@@ -38,5 +37,5 @@ Directly from [Trupti1903's Repositories](https://github.com/Trupti1903?tab=repo
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/trupti-malamdi-87449a283/
-- **Email:** tmalamdi241@rku.ac.in
+- **LinkedIn:** [Insert LinkedIn Link]
+- **Email:** [Insert Email]
